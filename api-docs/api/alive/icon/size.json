@@ -4,7 +4,7 @@
       "namespaceTitle": "Alive",
       "namespaceUri": "alive",
       "packageName": "Fuse.UXKits.Alive",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "parameters": [],
     "returns": {
@@ -57,7 +57,7 @@
       "fullyQualifiedIndexTitle": "Alive.Icon.Size"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXOriginSetter(originSetterName = \"SetSize\")]\npublic float Size { get; get; }"
+      "uno": "[Uno.UX.UXOriginSetter(originSetterName = \"SetSize\")]\r\npublic float Size { get; get; }"
     }
   },
   "tableOfContents": {}

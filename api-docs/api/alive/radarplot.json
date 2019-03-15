@@ -23,7 +23,7 @@
       "namespaceTitle": "Alive",
       "namespaceUri": "alive",
       "packageName": "Fuse.UXKits.Alive",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -497,7 +497,7 @@
       "fullyQualifiedIndexTitle": "Alive.RadarPlot"
     },
     "syntax": {
-      "uno": "[Uno.Compiler.UxGenerated]\npublic partial class RadarPlot : Fuse.Charting.Plot {}"
+      "uno": "[Uno.Compiler.UxGenerated]\r\npublic partial class RadarPlot : Fuse.Charting.Plot {}"
     },
     "comment": {
       "brief": "A radar-style [Plot](api:fuse/charting/plot) for a single data series of *exactly* six data points.",
@@ -2460,12 +2460,6 @@
             },
             "parameters": [
               {
-                "name": "c",
-                "href": "fuse/scripting/context",
-                "title": "Context",
-                "fullyQualifiedTitle": "Fuse.Scripting.Context"
-              },
-              {
                 "name": "p",
                 "href": "fuse/charting/plot",
                 "title": "Plot",
@@ -2479,7 +2473,7 @@
               }
             ],
             "id": {
-              "id": "alive/radarplot/stepoffset_aaa54088",
+              "id": "alive/radarplot/stepoffset_7123bcc9",
               "parentId": "alive/radarplot",
               "type": "JsMethod",
               "modifiers": [
@@ -2488,13 +2482,13 @@
               ]
             },
             "uri": {
-              "idUri": "alive/radarplot/stepoffset_aaa54088",
-              "href": "fuse/charting/plot/stepoffset_aaa54088",
+              "idUri": "alive/radarplot/stepoffset_7123bcc9",
+              "href": "fuse/charting/plot/stepoffset_7123bcc9",
               "isVirtual": true
             },
             "titles": {
-              "indexTitle": "stepOffset(Context, Plot, object[])",
-              "fullyQualifiedIndexTitle": "Fuse.Charting.Plot.stepOffset(Fuse.Scripting.Context, Fuse.Charting.Plot, object[])"
+              "indexTitle": "stepOffset(Plot, object[])",
+              "fullyQualifiedIndexTitle": "Fuse.Charting.Plot.stepOffset(Fuse.Charting.Plot, object[])"
             }
           }
         ]
@@ -5657,7 +5651,7 @@
             "comment": {
               "attributes": {
                 "returns": {
-                  "text": "Yes if the child influences the results of ArrangeMarginBox (size or layout of this node),No if it cannot, and Maybe otherwise (in cases of stretching)\n"
+                  "text": "Yes if the child influences the results of ArrangeMarginBox (size or layout of this node),No if it cannot, and Maybe otherwise (in cases of stretching)\r\n"
                 }
               }
             },

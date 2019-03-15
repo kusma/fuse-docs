@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Reactive",
       "namespaceUri": "fuse/reactive",
       "packageName": "Fuse.Reactive.Expressions",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -163,7 +163,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Reactive.Sqrt"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXFunction(name = \"sqrt\")]\npublic sealed class Sqrt : Fuse.Reactive.UnaryFloatOperator {}",
+      "uno": "[Uno.UX.UXFunction(name = \"sqrt\")]\r\npublic sealed class Sqrt : Fuse.Reactive.UnaryFloatOperator {}",
       "ux": "<Sqrt />"
     }
   },

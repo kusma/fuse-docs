@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Reactive",
       "namespaceUri": "fuse/reactive",
       "packageName": "Fuse.Reactive.Expressions",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -163,7 +163,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Reactive.AdjustHueFunction"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXFunction(name = \"adjustHue\")]\npublic sealed class AdjustHueFunction : Fuse.Reactive.BinaryColorFunction {}",
+      "uno": "[Uno.UX.UXFunction(name = \"adjustHue\")]\r\npublic sealed class AdjustHueFunction : Fuse.Reactive.BinaryColorFunction {}",
       "ux": "<AdjustHueFunction />"
     },
     "comment": {

@@ -4,7 +4,7 @@
       "namespaceTitle": "Fuse.Reactive",
       "namespaceUri": "fuse/reactive",
       "packageName": "Fuse.Reactive.Expressions",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "parameters": [
       {
@@ -61,7 +61,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Reactive.AdjustHueFunction.AdjustHueFunction(Fuse.Reactive.Expression, Fuse.Reactive.Expression)"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXConstructor]\npublic AdjustHueFunction(Fuse.Reactive.Expression color, Fuse.Reactive.Expression hue) {}"
+      "uno": "[Uno.UX.UXConstructor]\r\npublic AdjustHueFunction(Fuse.Reactive.Expression color, Fuse.Reactive.Expression hue) {}"
     }
   },
   "tableOfContents": {}

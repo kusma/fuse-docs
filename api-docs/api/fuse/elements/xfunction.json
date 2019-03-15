@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Elements",
       "namespaceUri": "fuse/elements",
       "packageName": "Fuse.Elements",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -151,7 +151,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Elements.XFunction"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXFunction(name = \"x\")]\npublic sealed class XFunction : Fuse.Elements.XYBaseLayoutFunction {}"
+      "uno": "[Uno.UX.UXFunction(name = \"x\")]\r\npublic sealed class XFunction : Fuse.Elements.XYBaseLayoutFunction {}"
     },
     "comment": {
       "brief": "Returns one of:",

@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Resources.Exif",
       "namespaceUri": "fuse/resources/exif",
       "packageName": "Fuse.Elements",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -31,14 +31,21 @@
         "title": "object",
         "children": [
           {
-            "uri": "uno/int",
-            "title": "int",
+            "uri": "uno/valuetype",
+            "title": "Uno.ValueType",
             "children": [
               {
-                "uri": "fuse/resources/exif/imageorientation",
-                "title": "Fuse.Resources.Exif.ImageOrientation",
-                "children": [],
-                "isCurrent": true
+                "uri": "uno/int",
+                "title": "int",
+                "children": [
+                  {
+                    "uri": "fuse/resources/exif/imageorientation",
+                    "title": "Fuse.Resources.Exif.ImageOrientation",
+                    "children": [],
+                    "isCurrent": true
+                  }
+                ],
+                "isAncestor": true
               }
             ],
             "isAncestor": true
@@ -131,7 +138,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Resources.Exif.ImageOrientation"
     },
     "syntax": {
-      "uno": "[Uno.Flags]\npublic enum ImageOrientation : int {}"
+      "uno": "[Uno.Flags]\r\npublic enum ImageOrientation : int {}"
     },
     "comment": {
       "brief": "ImageOrientation is used to indicate the orientation of an image.\nThe enum describes a transformation containing a vertical flip (if the FlipVertical flag is active), and then a rotation (if one of the rotation flags is active).\nNote that the flip should be applied before the rotation.",

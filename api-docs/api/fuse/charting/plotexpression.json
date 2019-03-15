@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Charting",
       "namespaceUri": "fuse/charting",
       "packageName": "Fuse.Charting",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -141,7 +141,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Charting.PlotExpression"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXUnaryOperator(symbol = \"Plot\")]\npublic sealed class PlotExpression : Fuse.Reactive.Expression {}",
+      "uno": "[Uno.UX.UXUnaryOperator(symbol = \"Plot\")]\r\npublic sealed class PlotExpression : Fuse.Reactive.Expression {}",
       "ux": "<Charting.PlotExpression />"
     },
     "comment": {

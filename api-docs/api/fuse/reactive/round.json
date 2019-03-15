@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Reactive",
       "namespaceUri": "fuse/reactive",
       "packageName": "Fuse.Reactive.Expressions",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -163,7 +163,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Reactive.Round"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXFunction(name = \"round\")]\npublic sealed class Round : Fuse.Reactive.UnaryFloatOperator {}",
+      "uno": "[Uno.UX.UXFunction(name = \"round\")]\r\npublic sealed class Round : Fuse.Reactive.UnaryFloatOperator {}",
       "ux": "<Round />"
     }
   },

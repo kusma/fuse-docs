@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Navigation",
       "namespaceUri": "fuse/navigation",
       "packageName": "Fuse.Navigation",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -156,7 +156,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Navigation.ModifyRouteCommand"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXFunction(name = \"modifyRoute\")]\npublic sealed class ModifyRouteCommand : Fuse.Navigation.RouteModificationCommand {}",
+      "uno": "[Uno.UX.UXFunction(name = \"modifyRoute\")]\r\npublic sealed class ModifyRouteCommand : Fuse.Navigation.RouteModificationCommand {}",
       "ux": "<ModifyRouteCommand />"
     },
     "comment": {

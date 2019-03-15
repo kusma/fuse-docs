@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Reactive",
       "namespaceUri": "fuse/reactive",
       "packageName": "Fuse.Reactive.Expressions",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -163,7 +163,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Reactive.Sign"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXFunction(name = \"sign\")]\npublic sealed class Sign : Fuse.Reactive.UnaryFloatOperator {}",
+      "uno": "[Uno.UX.UXFunction(name = \"sign\")]\r\npublic sealed class Sign : Fuse.Reactive.UnaryFloatOperator {}",
       "ux": "<Sign />"
     }
   },

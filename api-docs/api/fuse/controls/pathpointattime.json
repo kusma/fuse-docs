@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Controls",
       "namespaceUri": "fuse/controls",
       "packageName": "Fuse.Controls.Primitives",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -149,7 +149,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Controls.PathPointAtTime"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXFunction(name = \"pathPointAtTime\")]\npublic sealed class PathPointAtTime : Fuse.Controls.PathExpression {}",
+      "uno": "[Uno.UX.UXFunction(name = \"pathPointAtTime\")]\r\npublic sealed class PathPointAtTime : Fuse.Controls.PathExpression {}",
       "ux": "<PathPointAtTime />"
     },
     "comment": {

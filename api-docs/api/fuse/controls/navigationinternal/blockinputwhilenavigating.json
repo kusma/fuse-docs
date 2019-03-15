@@ -22,7 +22,7 @@
       "namespaceTitle": "Fuse.Controls.NavigationInternal",
       "namespaceUri": "fuse/controls/navigationinternal",
       "packageName": "Fuse.Controls.Navigation",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -255,7 +255,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Controls.NavigationInternal.BlockInputWhileNavigating"
     },
     "syntax": {
-      "uno": "[Uno.Compiler.UxGenerated]\npublic partial class BlockInputWhileNavigating : Fuse.Navigation.WhileNavigating {}"
+      "uno": "[Uno.Compiler.UxGenerated]\r\npublic partial class BlockInputWhileNavigating : Fuse.Navigation.WhileNavigating {}"
     }
   },
   "tableOfContents": {

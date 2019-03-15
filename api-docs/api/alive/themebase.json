@@ -22,7 +22,7 @@
       "namespaceTitle": "Alive",
       "namespaceUri": "alive",
       "packageName": "Fuse.UXKits.Alive",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -307,7 +307,7 @@
       "fullyQualifiedIndexTitle": "Alive.ThemeBase"
     },
     "syntax": {
-      "uno": "[Uno.Compiler.UxGenerated]\npublic partial class ThemeBase : Fuse.Triggers.WhileTrue {}"
+      "uno": "[Uno.Compiler.UxGenerated]\r\npublic partial class ThemeBase : Fuse.Triggers.WhileTrue {}"
     }
   },
   "tableOfContents": {

@@ -22,7 +22,7 @@
       "namespaceTitle": "Alive",
       "namespaceUri": "alive",
       "packageName": "Fuse.UXKits.Alive",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -248,7 +248,7 @@
       "fullyQualifiedIndexTitle": "Alive.SwipeActionConfirmed"
     },
     "syntax": {
-      "uno": "[Uno.Compiler.UxGenerated]\npublic partial class SwipeActionConfirmed : Fuse.Triggers.OnUserEvent {}"
+      "uno": "[Uno.Compiler.UxGenerated]\r\npublic partial class SwipeActionConfirmed : Fuse.Triggers.OnUserEvent {}"
     }
   },
   "tableOfContents": {

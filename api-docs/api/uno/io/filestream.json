@@ -23,7 +23,7 @@
       "namespaceTitle": "Uno.IO",
       "namespaceUri": "uno/io",
       "packageName": "UnoCore",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.1"
     },
     "inheritance": {
       "root": {
@@ -113,7 +113,7 @@
       "fullyQualifiedIndexTitle": "Uno.IO.FileStream"
     },
     "syntax": {
-      "uno": "[Uno.Compiler.ExportTargetInterop.DotNetType(fullName = \"System.IO.FileStream\")]\npublic class FileStream : Uno.IO.Stream {}"
+      "uno": "[Uno.Compiler.ExportTargetInterop.DotNetType(fullName = \"System.IO.FileStream\")]\r\npublic class FileStream : Uno.IO.Stream {}"
     }
   },
   "tableOfContents": {

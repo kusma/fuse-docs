@@ -23,7 +23,7 @@
       "namespaceTitle": "Alive",
       "namespaceUri": "alive",
       "packageName": "Fuse.UXKits.Alive",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -315,7 +315,7 @@
       "fullyQualifiedIndexTitle": "Alive.DarkTheme"
     },
     "syntax": {
-      "uno": "[Uno.Compiler.UxGenerated]\npublic partial class DarkTheme : Alive.ThemeBase {}"
+      "uno": "[Uno.Compiler.UxGenerated]\r\npublic partial class DarkTheme : Alive.ThemeBase {}"
     }
   },
   "tableOfContents": {

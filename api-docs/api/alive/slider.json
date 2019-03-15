@@ -22,7 +22,7 @@
       "namespaceTitle": "Alive",
       "namespaceUri": "alive",
       "packageName": "Fuse.UXKits.Alive",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -553,7 +553,7 @@
       "fullyQualifiedIndexTitle": "Alive.Slider"
     },
     "syntax": {
-      "uno": "[Uno.Compiler.UxGenerated]\npublic partial class Slider : Fuse.Controls.RangeControl {}"
+      "uno": "[Uno.Compiler.UxGenerated]\r\npublic partial class Slider : Fuse.Controls.RangeControl {}"
     },
     "comment": {
       "brief": "A slider control.\nHas the same interface as any other @RangeControl, such as the default @Slider.",
@@ -5579,7 +5579,7 @@
             "comment": {
               "attributes": {
                 "returns": {
-                  "text": "Yes if the child influences the results of ArrangeMarginBox (size or layout of this node),No if it cannot, and Maybe otherwise (in cases of stretching)\n"
+                  "text": "Yes if the child influences the results of ArrangeMarginBox (size or layout of this node),No if it cannot, and Maybe otherwise (in cases of stretching)\r\n"
                 }
               }
             },

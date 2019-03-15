@@ -4,7 +4,7 @@
       "namespaceTitle": "Fuse.Navigation",
       "namespaceUri": "fuse/navigation",
       "packageName": "Fuse.Navigation",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "parameters": [],
     "returns": {
@@ -54,7 +54,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Navigation.NavigateToggle.NavigationContext"
     },
     "syntax": {
-      "uno": "[Uno.Obsolete]\npublic Fuse.Navigation.INavigation NavigationContext { get; get; }"
+      "uno": "[Uno.Obsolete]\r\npublic Fuse.Navigation.INavigation NavigationContext { get; get; }"
     },
     "comment": {
       "attributes": {

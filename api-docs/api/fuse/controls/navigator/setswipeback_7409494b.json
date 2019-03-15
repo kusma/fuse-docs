@@ -4,7 +4,7 @@
       "namespaceTitle": "Fuse.Controls",
       "namespaceUri": "fuse/controls",
       "packageName": "Fuse.Controls.Navigation",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "parameters": [
       {
@@ -65,7 +65,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Controls.Navigator.SetSwipeBack(Fuse.Visual, Fuse.Controls.NavigatorSwipeDirection)"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXAttachedPropertySetter(name = \"Navigator.SwipeBack\")]\npublic static voidSetSwipeBack(Fuse.Visual elm, Fuse.Controls.NavigatorSwipeDirection value) {}"
+      "uno": "[Uno.UX.UXAttachedPropertySetter(name = \"Navigator.SwipeBack\")]\r\npublic static voidSetSwipeBack(Fuse.Visual elm, Fuse.Controls.NavigatorSwipeDirection value) {}"
     }
   },
   "tableOfContents": {}

@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Reactive",
       "namespaceUri": "fuse/reactive",
       "packageName": "Fuse.Reactive.Expressions",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -156,7 +156,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Reactive.ToUpper"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXFunction(name = \"toUpper\")]\npublic sealed class ToUpper : Fuse.Reactive.UnaryOperator {}",
+      "uno": "[Uno.UX.UXFunction(name = \"toUpper\")]\r\npublic sealed class ToUpper : Fuse.Reactive.UnaryOperator {}",
       "ux": "<ToUpper />"
     }
   },

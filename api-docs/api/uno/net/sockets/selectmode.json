@@ -23,7 +23,7 @@
       "namespaceTitle": "Uno.Net.Sockets",
       "namespaceUri": "uno/net/sockets",
       "packageName": "Uno.Net.Sockets",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.1"
     },
     "inheritance": {
       "root": {
@@ -31,14 +31,21 @@
         "title": "object",
         "children": [
           {
-            "uri": "uno/int",
-            "title": "int",
+            "uri": "uno/valuetype",
+            "title": "Uno.ValueType",
             "children": [
               {
-                "uri": "uno/net/sockets/selectmode",
-                "title": "Uno.Net.Sockets.SelectMode",
-                "children": [],
-                "isCurrent": true
+                "uri": "uno/int",
+                "title": "int",
+                "children": [
+                  {
+                    "uri": "uno/net/sockets/selectmode",
+                    "title": "Uno.Net.Sockets.SelectMode",
+                    "children": [],
+                    "isCurrent": true
+                  }
+                ],
+                "isAncestor": true
               }
             ],
             "isAncestor": true
@@ -106,7 +113,7 @@
       "fullyQualifiedIndexTitle": "Uno.Net.Sockets.SelectMode"
     },
     "syntax": {
-      "uno": "[Uno.Compiler.ExportTargetInterop.DotNetType(fullName = \"System.Net.Sockets.SelectMode\")]\npublic enum SelectMode : int {}"
+      "uno": "[Uno.Compiler.ExportTargetInterop.DotNetType(fullName = \"System.Net.Sockets.SelectMode\")]\r\npublic enum SelectMode : int {}"
     }
   },
   "tableOfContents": {

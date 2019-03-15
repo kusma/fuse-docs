@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Elements",
       "namespaceUri": "fuse/elements",
       "packageName": "Fuse.Elements",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -144,7 +144,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Elements.WidthFunction"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXFunction(name = \"width\")]\npublic sealed class WidthFunction : Fuse.Elements.LayoutFunction {}"
+      "uno": "[Uno.UX.UXFunction(name = \"width\")]\r\npublic sealed class WidthFunction : Fuse.Elements.LayoutFunction {}"
     },
     "comment": {
       "brief": "Returns the width of an @Element: `ActualSize.X`",

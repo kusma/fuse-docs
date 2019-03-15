@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Reactive",
       "namespaceUri": "fuse/reactive",
       "packageName": "Fuse.Reactive.Expressions",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -163,7 +163,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Reactive.SaturateFunction"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXFunction(name = \"saturate\")]\npublic sealed class SaturateFunction : Fuse.Reactive.BinaryColorFunction {}",
+      "uno": "[Uno.UX.UXFunction(name = \"saturate\")]\r\npublic sealed class SaturateFunction : Fuse.Reactive.BinaryColorFunction {}",
       "ux": "<SaturateFunction />"
     },
     "comment": {

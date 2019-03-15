@@ -23,7 +23,7 @@
       "namespaceTitle": "Alive",
       "namespaceUri": "alive",
       "packageName": "Fuse.UXKits.Alive",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -490,7 +490,7 @@
       "fullyQualifiedIndexTitle": "Alive.TabBar"
     },
     "syntax": {
-      "uno": "[Uno.Compiler.UxGenerated]\npublic partial class TabBar : Fuse.Controls.Panel {}"
+      "uno": "[Uno.Compiler.UxGenerated]\r\npublic partial class TabBar : Fuse.Controls.Panel {}"
     },
     "comment": {
       "brief": "A PageIndicator that uses values provided by the `Label` property of [TabPage](api:alive/tabpage)\nto instantiate tabs with text labels for each page in a @PageControl or other @LinearNavigation.",
@@ -5137,7 +5137,7 @@
             "comment": {
               "attributes": {
                 "returns": {
-                  "text": "Yes if the child influences the results of ArrangeMarginBox (size or layout of this node),No if it cannot, and Maybe otherwise (in cases of stretching)\n"
+                  "text": "Yes if the child influences the results of ArrangeMarginBox (size or layout of this node),No if it cannot, and Maybe otherwise (in cases of stretching)\r\n"
                 }
               }
             },

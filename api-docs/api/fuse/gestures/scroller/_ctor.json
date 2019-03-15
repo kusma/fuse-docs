@@ -4,7 +4,7 @@
       "namespaceTitle": "Fuse.Gestures",
       "namespaceUri": "fuse/gestures",
       "packageName": "Fuse.Controls.ScrollView",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "parameters": [],
     "attributes": [
@@ -48,7 +48,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Gestures.Scroller.Scroller"
     },
     "syntax": {
-      "uno": "[Uno.Obsolete]\npublic Scroller() {}"
+      "uno": "[Uno.Obsolete]\r\npublic Scroller() {}"
     }
   },
   "tableOfContents": {}

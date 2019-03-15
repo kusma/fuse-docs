@@ -4,7 +4,7 @@
       "namespaceTitle": "Uno.Graphics",
       "namespaceUri": "uno/graphics",
       "packageName": "UnoCore",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.1"
     },
     "parameters": [
       {
@@ -67,7 +67,7 @@
       "fullyQualifiedIndexTitle": "Uno.Graphics.Texture2D.Load(string, byte[])"
     },
     "syntax": {
-      "uno": "[Uno.Obsolete]\npublic static texture2D Load(string filename, byte[] bytes) {}"
+      "uno": "[Uno.Obsolete]\r\npublic static texture2D Load(string filename, byte[] bytes) {}"
     }
   },
   "tableOfContents": {}

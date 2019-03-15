@@ -4,7 +4,7 @@
       "namespaceTitle": "Alive",
       "namespaceUri": "alive",
       "packageName": "Fuse.UXKits.Alive",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "parameters": [],
     "returns": {
@@ -57,7 +57,7 @@
       "fullyQualifiedIndexTitle": "Alive.SwipeActionPanel.GradientStartColor"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXOriginSetter(originSetterName = \"SetGradientStartColor\")]\npublic float4 GradientStartColor { get; get; }"
+      "uno": "[Uno.UX.UXOriginSetter(originSetterName = \"SetGradientStartColor\")]\r\npublic float4 GradientStartColor { get; get; }"
     }
   },
   "tableOfContents": {}

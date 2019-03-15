@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Navigation",
       "namespaceUri": "fuse/navigation",
       "packageName": "Fuse.Navigation",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -141,7 +141,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Navigation.PageExpression"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXUnaryOperator(symbol = \"Page\")]\npublic sealed class PageExpression : Fuse.Reactive.Expression {}",
+      "uno": "[Uno.UX.UXUnaryOperator(symbol = \"Page\")]\r\npublic sealed class PageExpression : Fuse.Reactive.Expression {}",
       "ux": "<PageExpression />"
     }
   },

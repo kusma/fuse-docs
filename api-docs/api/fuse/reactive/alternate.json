@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Reactive",
       "namespaceUri": "fuse/reactive",
       "packageName": "Fuse.Reactive.Expressions",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -156,7 +156,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Reactive.Alternate"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXFunction(name = \"alternate\")]\npublic sealed class Alternate : Fuse.Reactive.BinaryOperator {}",
+      "uno": "[Uno.UX.UXFunction(name = \"alternate\")]\r\npublic sealed class Alternate : Fuse.Reactive.BinaryOperator {}",
       "ux": "<Alternate />"
     },
     "comment": {

@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Controls",
       "namespaceUri": "fuse/controls",
       "packageName": "Fuse.Controls.CameraView",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -516,7 +516,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Controls.PhotoPreview"
     },
     "syntax": {
-      "uno": "[Uno.Compiler.UxGenerated]\npublic partial class PhotoPreview : Fuse.Controls.PhotoPreviewBase {}"
+      "uno": "[Uno.Compiler.UxGenerated]\r\npublic partial class PhotoPreview : Fuse.Controls.PhotoPreviewBase {}"
     },
     "comment": {
       "brief": "PhotoPreview",
@@ -5299,7 +5299,7 @@
             "comment": {
               "attributes": {
                 "returns": {
-                  "text": "Yes if the child influences the results of ArrangeMarginBox (size or layout of this node),No if it cannot, and Maybe otherwise (in cases of stretching)\n"
+                  "text": "Yes if the child influences the results of ArrangeMarginBox (size or layout of this node),No if it cannot, and Maybe otherwise (in cases of stretching)\r\n"
                 }
               }
             },

@@ -4,7 +4,7 @@
       "namespaceTitle": "Uno",
       "namespaceUri": "uno",
       "packageName": "UnoCore",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.1"
     },
     "parameters": [
       {
@@ -64,7 +64,7 @@
       "fullyQualifiedIndexTitle": "Uno.Math.Round(float3)"
     },
     "syntax": {
-      "uno": "[Uno.Obsolete(message = \"Use Floor(x + 0.5f) instead\")]\npublic static float3 Round(float3 x) {}"
+      "uno": "[Uno.Obsolete(message = \"Use Floor(x + 0.5f) instead\")]\r\npublic static float3 Round(float3 x) {}"
     }
   },
   "tableOfContents": {}
