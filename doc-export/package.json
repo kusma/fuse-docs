@@ -1,0 +1,15 @@
+{
+  "name": "doc-export",
+  "version": "0.0.0",
+  "description": "A helper project to generate docs",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@fuse-open/fuselibs": "1.11.2",
+    "@fuse-open/uno": "1.11.1"
+  }
+}
