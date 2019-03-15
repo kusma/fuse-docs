@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Navigation",
       "namespaceUri": "fuse/navigation",
       "packageName": "Fuse.Navigation",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -142,7 +142,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Navigation.FindRouter"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXFunction(name = \"findRouter\")]\npublic sealed class FindRouter : Fuse.Reactive.Expression {}",
+      "uno": "[Uno.UX.UXFunction(name = \"findRouter\")]\r\npublic sealed class FindRouter : Fuse.Reactive.Expression {}",
       "ux": "<FindRouter />"
     },
     "comment": {

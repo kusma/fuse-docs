@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Reactive",
       "namespaceUri": "fuse/reactive",
       "packageName": "Fuse.Reactive.Expressions",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -156,7 +156,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Reactive.IsNull"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXFunction(name = \"isNull\")]\npublic sealed class IsNull : Fuse.Reactive.UnaryOperator {}",
+      "uno": "[Uno.UX.UXFunction(name = \"isNull\")]\r\npublic sealed class IsNull : Fuse.Reactive.UnaryOperator {}",
       "ux": "<IsNull />"
     },
     "comment": {

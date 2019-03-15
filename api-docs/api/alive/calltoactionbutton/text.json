@@ -4,7 +4,7 @@
       "namespaceTitle": "Alive",
       "namespaceUri": "alive",
       "packageName": "Fuse.UXKits.Alive",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "parameters": [],
     "returns": {
@@ -57,7 +57,7 @@
       "fullyQualifiedIndexTitle": "Alive.CallToActionButton.Text"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXOriginSetter(originSetterName = \"SetText\")]\npublic string Text { get; get; }"
+      "uno": "[Uno.UX.UXOriginSetter(originSetterName = \"SetText\")]\r\npublic string Text { get; get; }"
     }
   },
   "tableOfContents": {}

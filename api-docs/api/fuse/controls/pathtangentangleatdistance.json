@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Controls",
       "namespaceUri": "fuse/controls",
       "packageName": "Fuse.Controls.Primitives",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -149,7 +149,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Controls.PathTangentAngleAtDistance"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXFunction(name = \"pathTangentAngleAtDistance\")]\npublic sealed class PathTangentAngleAtDistance : Fuse.Controls.PathExpression {}",
+      "uno": "[Uno.UX.UXFunction(name = \"pathTangentAngleAtDistance\")]\r\npublic sealed class PathTangentAngleAtDistance : Fuse.Controls.PathExpression {}",
       "ux": "<PathTangentAngleAtDistance />"
     },
     "comment": {

@@ -4,7 +4,7 @@
       "namespaceTitle": "Alive",
       "namespaceUri": "alive",
       "packageName": "Fuse.UXKits.Alive",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "parameters": [],
     "attributes": [
@@ -48,7 +48,7 @@
       "fullyQualifiedIndexTitle": "Alive.SwipeActionConfirmed.SwipeActionConfirmed"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXConstructor]\npublic SwipeActionConfirmed() {}"
+      "uno": "[Uno.UX.UXConstructor]\r\npublic SwipeActionConfirmed() {}"
     }
   },
   "tableOfContents": {}

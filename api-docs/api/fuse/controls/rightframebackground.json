@@ -24,7 +24,7 @@
       "namespaceTitle": "Fuse.Controls",
       "namespaceUri": "fuse/controls",
       "packageName": "Fuse.Controls.Panels",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -457,7 +457,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Controls.RightFrameBackground"
     },
     "syntax": {
-      "uno": "[Uno.Obsolete]\npublic sealed class RightFrameBackground : Fuse.Controls.Control {}",
+      "uno": "[Uno.Obsolete]\r\npublic sealed class RightFrameBackground : Fuse.Controls.Control {}",
       "ux": "<RightFrameBackground />"
     },
     "comment": {
@@ -6388,7 +6388,7 @@
             "comment": {
               "attributes": {
                 "returns": {
-                  "text": "Yes if the child influences the results of ArrangeMarginBox (size or layout of this node),No if it cannot, and Maybe otherwise (in cases of stretching)\n"
+                  "text": "Yes if the child influences the results of ArrangeMarginBox (size or layout of this node),No if it cannot, and Maybe otherwise (in cases of stretching)\r\n"
                 }
               }
             },

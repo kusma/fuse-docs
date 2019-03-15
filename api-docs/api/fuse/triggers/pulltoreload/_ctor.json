@@ -4,7 +4,7 @@
       "namespaceTitle": "Fuse.Triggers",
       "namespaceUri": "fuse/triggers",
       "packageName": "Fuse.Controls.ScrollView",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "parameters": [],
     "attributes": [
@@ -48,7 +48,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Triggers.PullToReload.PullToReload"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXConstructor]\npublic PullToReload() {}"
+      "uno": "[Uno.UX.UXConstructor]\r\npublic PullToReload() {}"
     }
   },
   "tableOfContents": {}

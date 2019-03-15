@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Animations",
       "namespaceUri": "fuse/animations",
       "packageName": "Fuse.Animations",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -256,7 +256,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Animations.RangeAdapter<T>"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXAutoGeneric(alias = \"RangeAdapter\", property = \"Source\")]\npublic sealed class RangeAdapter<T> : Fuse.Behavior, Uno.UX.IPropertyListener {}",
+      "uno": "[Uno.UX.UXAutoGeneric(alias = \"RangeAdapter\", property = \"Source\")]\r\npublic sealed class RangeAdapter<T> : Fuse.Behavior, Uno.UX.IPropertyListener {}",
       "ux": "<RangeAdapter />"
     },
     "comment": {

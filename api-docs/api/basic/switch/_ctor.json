@@ -4,7 +4,7 @@
       "namespaceTitle": "Basic",
       "namespaceUri": "basic",
       "packageName": "Fuse.BasicTheme",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "parameters": [],
     "attributes": [
@@ -48,7 +48,7 @@
       "fullyQualifiedIndexTitle": "Basic.Switch.Switch"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXConstructor]\npublic Switch() {}"
+      "uno": "[Uno.UX.UXConstructor]\r\npublic Switch() {}"
     }
   },
   "tableOfContents": {}

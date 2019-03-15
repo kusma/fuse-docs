@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Resources",
       "namespaceUri": "fuse/resources",
       "packageName": "Fuse.Nodes",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -232,7 +232,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Resources.ResourceSetter<T>"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXAutoGeneric(alias = \"ResourceSetter\", property = \"Value\")]\npublic abstract class ResourceSetter<T> : Fuse.Behavior {}"
+      "uno": "[Uno.UX.UXAutoGeneric(alias = \"ResourceSetter\", property = \"Value\")]\r\npublic abstract class ResourceSetter<T> : Fuse.Behavior {}"
     },
     "comment": {
       "brief": "Creates or overrides a resource with the given key.",

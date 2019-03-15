@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Reactive",
       "namespaceUri": "fuse/reactive",
       "packageName": "Fuse.Reactive.Expressions",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -156,7 +156,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Reactive.Even"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXFunction(name = \"even\")]\npublic sealed class Even : Fuse.Reactive.UnaryOperator {}",
+      "uno": "[Uno.UX.UXFunction(name = \"even\")]\r\npublic sealed class Even : Fuse.Reactive.UnaryOperator {}",
       "ux": "<Even />"
     },
     "comment": {

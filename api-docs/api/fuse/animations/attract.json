@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Animations",
       "namespaceUri": "fuse/animations",
       "packageName": "Fuse.Animations",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -142,7 +142,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Animations.Attract"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXFunction(name = \"attract\")]\npublic sealed class Attract : Fuse.Reactive.Expression {}",
+      "uno": "[Uno.UX.UXFunction(name = \"attract\")]\r\npublic sealed class Attract : Fuse.Reactive.Expression {}",
       "ux": "<Attract />"
     },
     "comment": {

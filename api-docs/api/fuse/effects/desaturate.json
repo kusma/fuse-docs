@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Effects",
       "namespaceUri": "fuse/effects",
       "packageName": "Fuse.Effects",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -225,7 +225,7 @@
     "comment": {
       "brief": "Desaturates an @Element.",
       "full": "Desaturates an @Element.",
-      "examples": "The following example displays a completely desaturated @Rectangle.\n\n\t<Rectangle Color=\"#f00\">\n\t    <Desaturate Amount=\"1\" />\n\t</Rectangle>"
+      "examples": "The following example displays a completely desaturated @Rectangle.\r\n\r\n\t<Rectangle Color=\"#f00\">\r\n\t    <Desaturate Amount=\"1\" />\r\n\t</Rectangle>"
     }
   },
   "tableOfContents": {

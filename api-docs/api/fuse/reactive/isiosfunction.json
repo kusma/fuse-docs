@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Reactive",
       "namespaceUri": "fuse/reactive",
       "packageName": "Fuse.Reactive.Expressions",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -148,7 +148,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Reactive.IsIOSFunction"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXFunction(name = \"isIOS\")]\npublic class IsIOSFunction : Fuse.Reactive.PlatformFunction {}",
+      "uno": "[Uno.UX.UXFunction(name = \"isIOS\")]\r\npublic class IsIOSFunction : Fuse.Reactive.PlatformFunction {}",
       "ux": "<IsIOSFunction />"
     },
     "comment": {

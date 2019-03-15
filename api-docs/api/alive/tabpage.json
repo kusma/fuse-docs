@@ -23,7 +23,7 @@
       "namespaceTitle": "Alive",
       "namespaceUri": "alive",
       "packageName": "Fuse.UXKits.Alive",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -504,7 +504,7 @@
       "fullyQualifiedIndexTitle": "Alive.TabPage"
     },
     "syntax": {
-      "uno": "[Uno.Compiler.UxGenerated]\npublic partial class TabPage : Alive.Page {}"
+      "uno": "[Uno.Compiler.UxGenerated]\r\npublic partial class TabPage : Alive.Page {}"
     },
     "comment": {
       "brief": "A @Page that exports a title for use with [TabPageControl](api:alive/tabpagecontrol) or [TabBar](api:alive/tabbar).",
@@ -5420,7 +5420,7 @@
             "comment": {
               "attributes": {
                 "returns": {
-                  "text": "Yes if the child influences the results of ArrangeMarginBox (size or layout of this node),No if it cannot, and Maybe otherwise (in cases of stretching)\n"
+                  "text": "Yes if the child influences the results of ArrangeMarginBox (size or layout of this node),No if it cannot, and Maybe otherwise (in cases of stretching)\r\n"
                 }
               }
             },

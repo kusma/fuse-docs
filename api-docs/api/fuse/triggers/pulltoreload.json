@@ -22,7 +22,7 @@
       "namespaceTitle": "Fuse.Triggers",
       "namespaceUri": "fuse/triggers",
       "packageName": "Fuse.Controls.ScrollView",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -272,7 +272,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Triggers.PullToReload"
     },
     "syntax": {
-      "uno": "[Uno.Compiler.UxGenerated]\npublic partial class PullToReload : Fuse.Triggers.ScrollingAnimation {}",
+      "uno": "[Uno.Compiler.UxGenerated]\r\npublic partial class PullToReload : Fuse.Triggers.ScrollingAnimation {}",
       "ux": "<PullToReload />"
     },
     "comment": {

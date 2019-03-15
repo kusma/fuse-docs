@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Reactive",
       "namespaceUri": "fuse/reactive",
       "packageName": "Fuse.Reactive.Expressions",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -163,7 +163,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Reactive.LightenFunction"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXFunction(name = \"lighten\")]\npublic sealed class LightenFunction : Fuse.Reactive.BinaryColorFunction {}",
+      "uno": "[Uno.UX.UXFunction(name = \"lighten\")]\r\npublic sealed class LightenFunction : Fuse.Reactive.BinaryColorFunction {}",
       "ux": "<LightenFunction />"
     },
     "comment": {

@@ -4,7 +4,7 @@
       "namespaceTitle": "Fuse.Triggers.Actions",
       "namespaceUri": "fuse/triggers/actions",
       "packageName": "Fuse.Triggers",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "parameters": [],
     "returns": {
@@ -54,7 +54,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Triggers.Actions.TriggerAction.SourceLineNumber"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXLineNumber]\npublic int SourceLineNumber { get; get; }"
+      "uno": "[Uno.UX.UXLineNumber]\r\npublic int SourceLineNumber { get; get; }"
     },
     "comment": {
       "brief": "@hide",

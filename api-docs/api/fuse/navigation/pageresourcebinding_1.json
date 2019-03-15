@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Navigation",
       "namespaceUri": "fuse/navigation",
       "packageName": "Fuse.Navigation",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -259,7 +259,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Navigation.PageResourceBinding<T>"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXAutoGeneric(alias = \"PageResourceBinding\", property = \"Target\")]\n\n[Uno.Obsolete(message = \"Use DataBinding instead\")]\npublic sealed class PageResourceBinding<T> : Fuse.Behavior {}",
+      "uno": "[Uno.UX.UXAutoGeneric(alias = \"PageResourceBinding\", property = \"Target\")]\r\n\n[Uno.Obsolete(message = \"Use DataBinding instead\")]\r\npublic sealed class PageResourceBinding<T> : Fuse.Behavior {}",
       "ux": "<PageResourceBinding />"
     }
   },

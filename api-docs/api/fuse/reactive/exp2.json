@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Reactive",
       "namespaceUri": "fuse/reactive",
       "packageName": "Fuse.Reactive.Expressions",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -163,7 +163,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Reactive.Exp2"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXFunction(name = \"exp2\")]\npublic sealed class Exp2 : Fuse.Reactive.UnaryFloatOperator {}",
+      "uno": "[Uno.UX.UXFunction(name = \"exp2\")]\r\npublic sealed class Exp2 : Fuse.Reactive.UnaryFloatOperator {}",
       "ux": "<Exp2 />"
     }
   },

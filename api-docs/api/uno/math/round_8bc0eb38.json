@@ -4,7 +4,7 @@
       "namespaceTitle": "Uno",
       "namespaceUri": "uno",
       "packageName": "UnoCore",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.1"
     },
     "parameters": [
       {
@@ -70,7 +70,7 @@
       "fullyQualifiedIndexTitle": "Uno.Math.Round(float2, int)"
     },
     "syntax": {
-      "uno": "[Uno.Obsolete(message = \"Use float2((float)Floor((double)x.X, decimals), (float)Floor((double)x.Y, decimals)) instead\")]\npublic static float2 Round(float2 x, int decimals) {}"
+      "uno": "[Uno.Obsolete(message = \"Use float2((float)Floor((double)x.X, decimals), (float)Floor((double)x.Y, decimals)) instead\")]\r\npublic static float2 Round(float2 x, int decimals) {}"
     }
   },
   "tableOfContents": {}

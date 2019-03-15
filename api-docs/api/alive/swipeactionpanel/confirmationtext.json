@@ -4,7 +4,7 @@
       "namespaceTitle": "Alive",
       "namespaceUri": "alive",
       "packageName": "Fuse.UXKits.Alive",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "parameters": [],
     "returns": {
@@ -57,7 +57,7 @@
       "fullyQualifiedIndexTitle": "Alive.SwipeActionPanel.ConfirmationText"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXOriginSetter(originSetterName = \"SetConfirmationText\")]\npublic string ConfirmationText { get; get; }"
+      "uno": "[Uno.UX.UXOriginSetter(originSetterName = \"SetConfirmationText\")]\r\npublic string ConfirmationText { get; get; }"
     }
   },
   "tableOfContents": {}

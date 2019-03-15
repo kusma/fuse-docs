@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Reactive",
       "namespaceUri": "fuse/reactive",
       "packageName": "Fuse.Reactive.Expressions",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -149,7 +149,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Reactive.IsDefined"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXFunction(name = \"isDefined\")]\npublic sealed class IsDefined : Fuse.Reactive.ComputeExpression {}",
+      "uno": "[Uno.UX.UXFunction(name = \"isDefined\")]\r\npublic sealed class IsDefined : Fuse.Reactive.ComputeExpression {}",
       "ux": "<IsDefined />"
     },
     "comment": {

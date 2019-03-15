@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Reactive",
       "namespaceUri": "fuse/reactive",
       "packageName": "Fuse.Reactive.Expressions",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -141,7 +141,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Reactive.Property"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXUnaryOperator(symbol = \"Property\")]\npublic sealed class Property : Fuse.Reactive.Expression {}",
+      "uno": "[Uno.UX.UXUnaryOperator(symbol = \"Property\")]\r\npublic sealed class Property : Fuse.Reactive.Expression {}",
       "ux": "<Property />"
     }
   },

@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Triggers.Actions",
       "namespaceUri": "fuse/triggers/actions",
       "packageName": "Fuse.Triggers",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -134,7 +134,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Triggers.Actions.PlayTo"
     },
     "syntax": {
-      "uno": "[Uno.Obsolete]\npublic sealed class PlayTo : Fuse.Triggers.Actions.PlaybackAction {}",
+      "uno": "[Uno.Obsolete]\r\npublic sealed class PlayTo : Fuse.Triggers.Actions.PlaybackAction {}",
       "ux": "<PlayTo />"
     },
     "comment": {

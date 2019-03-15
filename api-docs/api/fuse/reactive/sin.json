@@ -23,7 +23,7 @@
       "namespaceTitle": "Fuse.Reactive",
       "namespaceUri": "fuse/reactive",
       "packageName": "Fuse.Reactive.Expressions",
-      "packageVersion": "1.9.0"
+      "packageVersion": "1.11.2"
     },
     "inheritance": {
       "root": {
@@ -163,7 +163,7 @@
       "fullyQualifiedIndexTitle": "Fuse.Reactive.Sin"
     },
     "syntax": {
-      "uno": "[Uno.UX.UXFunction(name = \"sin\")]\npublic sealed class Sin : Fuse.Reactive.UnaryFloatOperator {}",
+      "uno": "[Uno.UX.UXFunction(name = \"sin\")]\r\npublic sealed class Sin : Fuse.Reactive.UnaryFloatOperator {}",
       "ux": "<Sin />"
     },
     "comment": {
